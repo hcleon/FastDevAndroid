@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="open_source_lib_names">
+        <item>Android-Universal-Image-Loader</item>
+        <item>Android-Ultra-Pull-To-Refresh</item>
+    </string-array>
+    <string-array name="image_loader">
+        <item>Image card in ListView</item>
+        <item>Image in GridView</item>
+        <item>Image icon in ListView</item>
+    </string-array>
+
+</resources>
